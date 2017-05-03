@@ -1,0 +1,14 @@
+---
+title: Get it
+author: ~
+date: '2017-05-03'
+slug: ''
+categories: []
+tags: []
+---
+
+# Bayoo!  
+
+```{r}
+10
+```
