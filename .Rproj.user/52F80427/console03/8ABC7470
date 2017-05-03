@@ -4,3 +4,391 @@
 ]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ git init
 Initialized empty Git repository in /perm_storage/home/mdsumner/Git/sumnerdown/.git/
 ]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ git add --all
+]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ git commit -m "firch"
+[master (root-commit) 4e1c7f6] firch
+ 369 files changed, 45059 insertions(+)
+ create mode 100644 .Rproj.user/52F80427/console03/8ABC7470
+ create mode 100644 .Rproj.user/52F80427/console03/INDEX001
+ create mode 100644 .Rproj.user/52F80427/graphics-r3/empty.png
+ create mode 100644 .Rproj.user/52F80427/session-persistent-state
+ create mode 100644 .Rproj.user/52F80427/sources/prop/13111342
+ create mode 100644 .Rproj.user/52F80427/sources/prop/7898F53A
+ create mode 100644 .Rproj.user/52F80427/sources/prop/B135E66C
+ create mode 100644 .Rproj.user/52F80427/sources/prop/DF8DC52B
+ create mode 100644 .Rproj.user/52F80427/sources/prop/INDEX
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/70EB5782
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/70EB5782-contents
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/B21D1331
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/B21D1331-contents
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/B2A019D5
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/B2A019D5-contents
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/F120D1AB-contents
+ create mode 100644 .Rproj.user/52F80427/sources/s-2CE03F88/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/73F8E2B1-2015-07-23-r-rmarkdown/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/84DA4E0-2017-05-03-get-it/1/52F804272CE03F88/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/84DA4E0-2017-05-03-get-it/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/home/about.md
+ create mode 100644 content/home/contact.md
+ create mode 100644 content/home/posts.md
+ create mode 100644 content/home/projects.md
+ create mode 100644 content/home/publications.md
+ create mode 100644 content/home/publications_selected.md
+ create mode 100644 content/home/talks.md
+ create mode 100644 content/home/teaching.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/2017-05-03-get-it.Rmd
+ create mode 100644 content/post/2017-05-03-get-it.html
+ create mode 100644 content/post/2017-05-03-git-down.md
+ create mode 100644 content/post/_index.md
+ create mode 100644 content/post/getting-started.md
+ create mode 100644 content/post/managing-content.md
+ create mode 100644 content/post/migrate-from-jekyll.md
+ create mode 100644 content/post/widgets.md
+ create mode 100644 content/post/writing-markdown-latex.md
+ create mode 100644 content/project/deep-learning.md
+ create mode 100644 content/project/example-external-project.md
+ create mode 100644 content/publication/_index.md
+ create mode 100644 content/publication/clothing-search.md
+ create mode 100644 content/publication/person-re-identification.md
+ create mode 100644 content/tags/academic/_index.md
+ create mode 100644 content/talk/_index.md
+ create mode 100644 content/talk/example-talk.md
+ create mode 100644 doc/404.html
+ create mode 100644 doc/categories/index.xml
+ create mode 100644 doc/categories/r/index.html
+ create mode 100644 doc/categories/r/index.xml
+ create mode 100644 doc/categories/r/page/1/index.html
+ create mode 100644 doc/css/academicons.min.css
+ create mode 100644 doc/css/bootstrap.min.css
+ create mode 100644 doc/css/font-awesome.min.css
+ create mode 100644 doc/css/highlight.min.css
+ create mode 100644 doc/css/hugo-academic.css
+ create mode 100644 doc/fonts/FontAwesome.otf
+ create mode 100644 doc/fonts/academicons.eot
+ create mode 100644 doc/fonts/academicons.svg
+ create mode 100644 doc/fonts/academicons.ttf
+ create mode 100644 doc/fonts/academicons.woff
+ create mode 100644 doc/fonts/fontawesome-webfont.eot
+ create mode 100644 doc/fonts/fontawesome-webfont.svg
+ create mode 100644 doc/fonts/fontawesome-webfont.ttf
+ create mode 100644 doc/fonts/fontawesome-webfont.woff
+ create mode 100644 doc/fonts/fontawesome-webfont.woff2
+ create mode 100644 doc/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 doc/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 doc/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 doc/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 doc/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 doc/home/index.xml
+ create mode 100644 doc/img/apple-touch-icon.png
+ create mode 100644 doc/img/boards.jpg
+ create mode 100644 doc/img/bubbles.jpg
+ create mode 100644 doc/img/headers/bubbles-wide.jpg
+ create mode 100644 doc/img/headers/getting-started.png
+ create mode 100644 doc/img/icon.png
+ create mode 100644 doc/img/portrait.jpg
+ create mode 100644 doc/index.html
+ create mode 100644 doc/index.xml
+ create mode 100644 doc/js/bootstrap.min.js
+ create mode 100644 doc/js/hugo-academic.js
+ create mode 100644 doc/js/isotope.pkgd.min.js
+ create mode 100644 doc/js/jquery-1.12.3.min.js
+ create mode 100644 doc/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 doc/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 doc/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 doc/post/2017-05-03-get-it.Rmd
+ create mode 100644 doc/post/2017-05-03-get-it/index.html
+ create mode 100644 doc/post/2017-05-03-git-down/index.html
+ create mode 100644 doc/post/getting-started/index.html
+ create mode 100644 doc/post/index.html
+ create mode 100644 doc/post/index.xml
+ create mode 100644 doc/post/managing-content/index.html
+ create mode 100644 doc/post/migrate-from-jekyll/index.html
+ create mode 100644 doc/post/page/1/index.html
+ create mode 100644 doc/post/widgets/index.html
+ create mode 100644 doc/post/writing-markdown-latex/index.html
+ create mode 100644 doc/project/deep-learning/index.html
+ create mode 100644 doc/project/example-external-project/index.html
+ create mode 100644 doc/project/index.xml
+ create mode 100644 doc/publication/clothing-search/index.html
+ create mode 100644 doc/publication/index.html
+ create mode 100644 doc/publication/index.xml
+ create mode 100644 doc/publication/person-re-identification/index.html
+ create mode 100644 doc/publication_types/1/index.html
+ create mode 100644 doc/publication_types/1/index.xml
+ create mode 100644 doc/publication_types/1/page/1/index.html
+ create mode 100644 doc/publication_types/2/index.html
+ create mode 100644 doc/publication_types/2/index.xml
+ create mode 100644 doc/publication_types/2/page/1/index.html
+ create mode 100644 doc/publication_types/index.xml
+ create mode 100644 doc/sitemap.xml
+ create mode 100644 doc/tags/academic/index.html
+ create mode 100644 doc/tags/academic/index.xml
+ create mode 100644 doc/tags/academic/page/1/index.html
+ create mode 100644 doc/tags/deep-learning/index.html
+ create mode 100644 doc/tags/deep-learning/index.xml
+ create mode 100644 doc/tags/deep-learning/page/1/index.html
+ create mode 100644 doc/tags/demo/index.html
+ create mode 100644 doc/tags/demo/index.xml
+ create mode 100644 doc/tags/demo/page/1/index.html
+ create mode 100644 doc/tags/hugo/index.html
+ create mode 100644 doc/tags/hugo/index.xml
+ create mode 100644 doc/tags/hugo/page/1/index.html
+ create mode 100644 doc/tags/index.xml
+ create mode 100644 doc/tags/jekyll/index.html
+ create mode 100644 doc/tags/jekyll/index.xml
+ create mode 100644 doc/tags/jekyll/page/1/index.html
+ create mode 100644 doc/tags/plot/index.html
+ create mode 100644 doc/tags/plot/index.xml
+ create mode 100644 doc/tags/plot/page/1/index.html
+ create mode 100644 doc/tags/r-markdown/index.html
+ create mode 100644 doc/tags/r-markdown/index.xml
+ create mode 100644 doc/tags/r-markdown/page/1/index.html
+ create mode 100644 doc/tags/regression/index.html
+ create mode 100644 doc/tags/regression/index.xml
+ create mode 100644 doc/tags/regression/page/1/index.html
+ create mode 100644 doc/talk/example-talk/index.html
+ create mode 100644 doc/talk/index.html
+ create mode 100644 doc/talk/index.xml
+ create mode 100644 index.Rmd
+ create mode 100644 public/404.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/categories/r/page/1/index.html
+ create mode 100644 public/css/academicons.min.css
+ create mode 100644 public/css/bootstrap.min.css
+ create mode 100644 public/css/font-awesome.min.css
+ create mode 100644 public/css/highlight.min.css
+ create mode 100644 public/css/hugo-academic.css
+ create mode 100644 public/fonts/FontAwesome.otf
+ create mode 100644 public/fonts/academicons.eot
+ create mode 100644 public/fonts/academicons.svg
+ create mode 100644 public/fonts/academicons.ttf
+ create mode 100644 public/fonts/academicons.woff
+ create mode 100644 public/fonts/fontawesome-webfont.eot
+ create mode 100644 public/fonts/fontawesome-webfont.svg
+ create mode 100644 public/fonts/fontawesome-webfont.ttf
+ create mode 100644 public/fonts/fontawesome-webfont.woff
+ create mode 100644 public/fonts/fontawesome-webfont.woff2
+ create mode 100644 public/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 public/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 public/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 public/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 public/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 public/home/index.xml
+ create mode 100644 public/img/apple-touch-icon.png
+ create mode 100644 public/img/boards.jpg
+ create mode 100644 public/img/bubbles.jpg
+ create mode 100644 public/img/headers/bubbles-wide.jpg
+ create mode 100644 public/img/headers/getting-started.png
+ create mode 100644 public/img/icon.png
+ create mode 100644 public/img/portrait.jpg
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/bootstrap.min.js
+ create mode 100644 public/js/hugo-academic.js
+ create mode 100644 public/js/isotope.pkgd.min.js
+ create mode 100644 public/js/jquery-1.12.3.min.js
+ create mode 100644 public/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/getting-started/index.html
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/post/managing-content/index.html
+ create mode 100644 public/post/migrate-from-jekyll/index.html
+ create mode 100644 public/post/page/1/index.html
+ create mode 100644 public/post/widgets/index.html
+ create mode 100644 public/post/writing-markdown-latex/index.html
+ create mode 100644 public/project/deep-learning/index.html
+ create mode 100644 public/project/example-external-project/index.html
+ create mode 100644 public/project/index.xml
+ create mode 100644 public/publication/clothing-search/index.html
+ create mode 100644 public/publication/index.html
+ create mode 100644 public/publication/index.xml
+ create mode 100644 public/publication/person-re-identification/index.html
+ create mode 100644 public/publication_types/1/index.html
+ create mode 100644 public/publication_types/1/index.xml
+ create mode 100644 public/publication_types/1/page/1/index.html
+ create mode 100644 public/publication_types/2/index.html
+ create mode 100644 public/publication_types/2/index.xml
+ create mode 100644 public/publication_types/2/page/1/index.html
+ create mode 100644 public/publication_types/index.xml
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/academic/index.html
+ create mode 100644 public/tags/academic/index.xml
+ create mode 100644 public/tags/academic/page/1/index.html
+ create mode 100644 public/tags/deep-learning/index.html
+ create mode 100644 public/tags/deep-learning/index.xml
+ create mode 100644 public/tags/deep-learning/page/1/index.html
+ create mode 100644 public/tags/demo/index.html
+ create mode 100644 public/tags/demo/index.xml
+ create mode 100644 public/tags/demo/page/1/index.html
+ create mode 100644 public/tags/hugo/index.html
+ create mode 100644 public/tags/hugo/index.xml
+ create mode 100644 public/tags/hugo/page/1/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/jekyll/index.html
+ create mode 100644 public/tags/jekyll/index.xml
+ create mode 100644 public/tags/jekyll/page/1/index.html
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/plot/page/1/index.html
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/r-markdown/page/1/index.html
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 public/tags/regression/page/1/index.html
+ create mode 100644 public/talk/example-talk/index.html
+ create mode 100644 public/talk/index.html
+ create mode 100644 public/talk/index.xml
+ create mode 100644 static/img/boards.jpg
+ create mode 100644 static/img/bubbles.jpg
+ create mode 100644 static/img/headers/bubbles-wide.jpg
+ create mode 100644 static/img/headers/getting-started.png
+ create mode 100644 static/img/portrait.jpg
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 sumnerdown.Rproj
+ create mode 100644 themes/hugo-academic/.editorconfig
+ create mode 100644 themes/hugo-academic/LICENSE.md
+ create mode 100644 themes/hugo-academic/README.md
+ create mode 100644 themes/hugo-academic/academic.png
+ create mode 100644 themes/hugo-academic/archetypes/default.md
+ create mode 100644 themes/hugo-academic/archetypes/home.md
+ create mode 100644 themes/hugo-academic/archetypes/post.md
+ create mode 100644 themes/hugo-academic/archetypes/project.md
+ create mode 100644 themes/hugo-academic/archetypes/publication.md
+ create mode 100644 themes/hugo-academic/archetypes/talk.md
+ create mode 100644 themes/hugo-academic/data/i18n/languages.yaml
+ create mode 100644 themes/hugo-academic/exampleSite/config.toml
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/about.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/contact.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/posts.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/projects.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/publications.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/publications_selected.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/talks.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/teaching.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/getting-started.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/managing-content.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/migrate-from-jekyll.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/widgets.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/writing-markdown-latex.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/project/deep-learning.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/project/example-external-project.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/clothing-search.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/person-re-identification.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/tags/academic/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/talk/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/talk/example-talk.md
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/boards.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/bubbles.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/headers/bubbles-wide.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/headers/getting-started.png
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/portrait.jpg
+ create mode 100644 themes/hugo-academic/i18n/de.yaml
+ create mode 100644 themes/hugo-academic/i18n/en.yaml
+ create mode 100644 themes/hugo-academic/i18n/es.yaml
+ create mode 100644 themes/hugo-academic/i18n/eu.yaml
+ create mode 100644 themes/hugo-academic/i18n/fr.yaml
+ create mode 100644 themes/hugo-academic/i18n/nl.yaml
+ create mode 100644 themes/hugo-academic/i18n/ru.yaml
+ create mode 100644 themes/hugo-academic/i18n/tr.yaml
+ create mode 100644 themes/hugo-academic/i18n/vi.yaml
+ create mode 100644 themes/hugo-academic/i18n/zh.yaml
+ create mode 100644 themes/hugo-academic/images/screenshot.png
+ create mode 100644 themes/hugo-academic/images/tn.png
+ create mode 100644 themes/hugo-academic/layouts/404.html
+ create mode 100644 themes/hugo-academic/layouts/_default/list.html
+ create mode 100644 themes/hugo-academic/layouts/_default/single.html
+ create mode 100644 themes/hugo-academic/layouts/home/list.html
+ create mode 100644 themes/hugo-academic/layouts/home/single.html
+ create mode 100644 themes/hugo-academic/layouts/index.html
+ create mode 100644 themes/hugo-academic/layouts/partials/article_metadata.html
+ create mode 100644 themes/hugo-academic/layouts/partials/comments.html
+ create mode 100644 themes/hugo-academic/layouts/partials/footer.html
+ create mode 100644 themes/hugo-academic/layouts/partials/footer_container.html
+ create mode 100644 themes/hugo-academic/layouts/partials/head_custom.html
+ create mode 100644 themes/hugo-academic/layouts/partials/header.html
+ create mode 100644 themes/hugo-academic/layouts/partials/navbar.html
+ create mode 100644 themes/hugo-academic/layouts/partials/pagination.html
+ create mode 100644 themes/hugo-academic/layouts/partials/post_li.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_detailed.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_simple.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_links.html
+ create mode 100644 themes/hugo-academic/layouts/partials/section_pager.html
+ create mode 100644 themes/hugo-academic/layouts/partials/share.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_li_detailed.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_li_simple.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_links.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/about.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/contact.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/custom.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/posts.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/projects.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/publications.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/publications_selected.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/talks.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/talks_selected.html
+ create mode 100644 themes/hugo-academic/layouts/project/single.html
+ create mode 100644 themes/hugo-academic/layouts/publication/single.html
+ create mode 100644 themes/hugo-academic/layouts/rss.xml
+ create mode 100644 themes/hugo-academic/layouts/section/home.html
+ create mode 100644 themes/hugo-academic/layouts/section/post.html
+ create mode 100644 themes/hugo-academic/layouts/section/project.html
+ create mode 100644 themes/hugo-academic/layouts/section/publication.html
+ create mode 100644 themes/hugo-academic/layouts/section/talk.html
+ create mode 100644 themes/hugo-academic/layouts/shortcodes/alert.html
+ create mode 100644 themes/hugo-academic/layouts/sitemap.xml
+ create mode 100644 themes/hugo-academic/layouts/talk/single.html
+ create mode 100644 themes/hugo-academic/static/css/academicons.min.css
+ create mode 100644 themes/hugo-academic/static/css/bootstrap.min.css
+ create mode 100644 themes/hugo-academic/static/css/font-awesome.min.css
+ create mode 100644 themes/hugo-academic/static/css/highlight.min.css
+ create mode 100644 themes/hugo-academic/static/css/hugo-academic.css
+ create mode 100644 themes/hugo-academic/static/fonts/FontAwesome.otf
+ create mode 100644 themes/hugo-academic/static/fonts/academicons.eot
+ create mode 100644 themes/hugo-academic/static/fonts/academicons.svg
+ create mode 100644 themes/hugo-academic/static/fonts/academicons.ttf
+ create mode 100644 themes/hugo-academic/static/fonts/academicons.woff
+ create mode 100644 themes/hugo-academic/static/fonts/fontawesome-webfont.eot
+ create mode 100644 themes/hugo-academic/static/fonts/fontawesome-webfont.svg
+ create mode 100644 themes/hugo-academic/static/fonts/fontawesome-webfont.ttf
+ create mode 100644 themes/hugo-academic/static/fonts/fontawesome-webfont.woff
+ create mode 100644 themes/hugo-academic/static/fonts/fontawesome-webfont.woff2
+ create mode 100644 themes/hugo-academic/static/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 themes/hugo-academic/static/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 themes/hugo-academic/static/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 themes/hugo-academic/static/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 themes/hugo-academic/static/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 themes/hugo-academic/static/img/apple-touch-icon.png
+ create mode 100644 themes/hugo-academic/static/img/icon.png
+ create mode 100644 themes/hugo-academic/static/img/portrait.jpg
+ create mode 100644 themes/hugo-academic/static/js/bootstrap.min.js
+ create mode 100644 themes/hugo-academic/static/js/hugo-academic.js
+ create mode 100644 themes/hugo-academic/static/js/isotope.pkgd.min.js
+ create mode 100644 themes/hugo-academic/static/js/jquery-1.12.3.min.js
+ create mode 100644 themes/hugo-academic/theme.toml
+]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ git remote add origin https://github.com/dis-organization/sumnerdown.git
+]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ git push -u origin master
+error: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': mdsumner
+error: cannot run rpostback-askpass: No such file or directory
+Password for 'https://mdsumner@github.com': 
+Counting objects: 349, done.
+Delta compression using up to 16 threads.
+Compressing objects:   0% (1/284)   Compressing objects:   1% (3/284)   Compressing objects:   2% (6/284)   Compressing objects:   3% (9/284)   Compressing objects:   4% (12/284)   Compressing objects:   5% (15/284)   Compressing objects:   6% (18/284)   Compressing objects:   7% (20/284)   Compressing objects:   8% (23/284)   Compressing objects:   9% (26/284)   Compressing objects:  10% (29/284)   Compressing objects:  11% (32/284)   Compressing objects:  12% (35/284)   Compressing objects:  13% (37/284)   Compressing objects:  14% (40/284)   Compressing objects:  15% (43/284)   Compressing objects:  16% (46/284)   Compressing objects:  17% (49/284)   Compressing objects:  18% (52/284)   Compressing objects:  19% (54/284)   Compressing objects:  20% (57/284)   Compressing objects:  21% (60/284)   Compressing objects:  22% (63/284)   Compressing objects:  23% (66/284)   Compressing objects:  24% (69/284)   Compressing objects:  25% (71/284)   Compressing objects:  26% (74/284)   Compressing objects:  27% (77/284)   Compressing objects:  28% (80/284)   Compressing objects:  29% (83/284)   Compressing objects:  30% (86/284)   Compressing objects:  31% (89/284)   Compressing objects:  32% (91/284)   Compressing objects:  33% (94/284)   Compressing objects:  34% (97/284)   Compressing objects:  35% (100/284)   Compressing objects:  36% (103/284)   Compressing objects:  37% (106/284)   Compressing objects:  38% (108/284)   Compressing objects:  39% (111/284)   Compressing objects:  40% (114/284)   Compressing objects:  41% (117/284)   Compressing objects:  42% (120/284)   Compressing objects:  43% (123/284)   Compressing objects:  44% (125/284)   Compressing objects:  45% (128/284)   Compressing objects:  46% (131/284)   Compressing objects:  47% (134/284)   Compressing objects:  48% (137/284)   Compressing objects:  49% (140/284)   Compressing objects:  50% (142/284)   Compressing objects:  51% (145/284)   Compressing objects:  52% (148/284)   Compressing objects:  53% (151/284)   Compressing objects:  54% (154/284)   Compressing objects:  55% (157/284)   Compressing objects:  56% (160/284)   Compressing objects:  57% (162/284)   Compressing objects:  58% (165/284)   Compressing objects:  59% (168/284)   Compressing objects:  60% (171/284)   Compressing objects:  61% (174/284)   Compressing objects:  62% (177/284)   Compressing objects:  63% (179/284)   Compressing objects:  64% (182/284)   Compressing objects:  65% (185/284)   Compressing objects:  66% (188/284)   Compressing objects:  67% (191/284)   Compressing objects:  68% (194/284)   Compressing objects:  69% (196/284)   Compressing objects:  70% (199/284)   Compressing objects:  71% (202/284)   Compressing objects:  72% (205/284)   Compressing objects:  73% (208/284)   Compressing objects:  74% (211/284)   Compressing objects:  75% (213/284)   Compressing objects:  76% (216/284)   Compressing objects:  77% (219/284)   Compressing objects:  78% (222/284)   Compressing objects:  79% (225/284)   Compressing objects:  80% (228/284)   Compressing objects:  81% (231/284)   Compressing objects:  82% (233/284)   Compressing objects:  83% (236/284)   Compressing objects:  84% (239/284)   Compressing objects:  85% (242/284)   Compressing objects:  86% (245/284)   Compressing objects:  87% (248/284)   Compressing objects:  88% (250/284)   Compressing objects:  89% (253/284)   Compressing objects:  90% (256/284)   Compressing objects:  91% (259/284)   Compressing objects:  92% (262/284)   Compressing objects:  93% (265/284)   Compressing objects:  94% (267/284)   Compressing objects:  95% (270/284)   Compressing objects:  96% (273/284)   Compressing objects:  97% (276/284)   Compressing objects:  98% (279/284)   Compressing objects:  99% (282/284)   Compressing objects: 100% (284/284)   Compressing objects: 100% (284/284), done.
+Writing objects:   0% (1/349)   Writing objects:   1% (4/349)   Writing objects:   2% (7/349)   Writing objects:   3% (11/349)   Writing objects:   4% (14/349)   Writing objects:   5% (18/349)   Writing objects:   6% (21/349)   Writing objects:   7% (25/349)   Writing objects:   8% (28/349)   Writing objects:   9% (32/349)   Writing objects:  10% (35/349)   Writing objects:  11% (39/349)   Writing objects:  12% (42/349)   Writing objects:  13% (46/349)   Writing objects:  14% (49/349)   Writing objects:  15% (53/349)   Writing objects:  16% (56/349)   Writing objects:  17% (60/349)   Writing objects:  18% (63/349)   Writing objects:  19% (67/349)   Writing objects:  20% (70/349)   Writing objects:  21% (74/349)   Writing objects:  22% (79/349)   Writing objects:  24% (85/349)   Writing objects:  25% (89/349)   Writing objects:  26% (91/349)   Writing objects:  27% (95/349)   Writing objects:  28% (98/349)   Writing objects:  29% (102/349)   Writing objects:  30% (105/349)   Writing objects:  31% (109/349)   Writing objects:  32% (112/349)   Writing objects:  33% (116/349)   Writing objects:  34% (120/349)   Writing objects:  35% (123/349)   Writing objects:  35% (123/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  36% (126/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  37% (131/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  38% (134/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  39% (137/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  40% (140/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  41% (144/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  42% (147/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  43% (151/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  44% (154/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  45% (158/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  46% (161/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  47% (166/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  48% (168/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  49% (172/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  50% (176/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  51% (178/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  52% (183/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  53% (185/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  54% (189/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  55% (192/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  56% (196/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  57% (199/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  58% (203/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  60% (210/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  61% (213/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  62% (217/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  63% (220/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  64% (224/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  65% (227/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  66% (231/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  67% (234/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  68% (238/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  69% (241/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  70% (245/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  71% (248/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  72% (252/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  73% (255/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  74% (259/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  75% (262/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  76% (266/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  77% (269/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  78% (273/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  79% (276/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  80% (280/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  81% (283/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  83% (291/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  84% (294/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  85% (297/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  86% (301/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  87% (304/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  88% (308/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  89% (311/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  90% (315/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  91% (318/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  92% (322/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  93% (325/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  94% (329/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  95% (332/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  96% (336/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  97% (339/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  98% (343/349), 1.09 MiB | 1.08 MiB/s   Writing objects:  99% (346/349), 1.09 MiB | 1.08 MiB/s   Writing objects: 100% (349/349), 1.09 MiB | 1.08 MiB/s   Writing objects: 100% (349/349), 2.02 MiB | 1.08 MiB/s, done.
+Total 349 (delta 90), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/90)   [Kremote: Resolving deltas:   2% (2/90)   [Kremote: Resolving deltas:   3% (3/90)   [Kremote: Resolving deltas:   4% (4/90)   [Kremote: Resolving deltas:   6% (6/90)   [Kremote: Resolving deltas:   7% (7/90)   [Kremote: Resolving deltas:   8% (8/90)   [Kremote: Resolving deltas:  10% (9/90)   [Kremote: Resolving deltas:  15% (14/90)   [Kremote: Resolving deltas:  24% (22/90)   [Kremote: Resolving deltas:  30% (27/90)   [Kremote: Resolving deltas:  42% (38/90)   [Kremote: Resolving deltas:  43% (39/90)   [Kremote: Resolving deltas:  45% (41/90)   [Kremote: Resolving deltas:  48% (44/90)   [Kremote: Resolving deltas:  58% (53/90)   [Kremote: Resolving deltas:  60% (54/90)   [Kremote: Resolving deltas:  71% (64/90)   [Kremote: Resolving deltas:  72% (65/90)   [Kremote: Resolving deltas:  77% (70/90)   [Kremote: Resolving deltas:  78% (71/90)   [Kremote: Resolving deltas:  80% (72/90)   [Kremote: Resolving deltas:  90% (81/90)   [Kremote: Resolving deltas:  91% (82/90)   [Kremote: Resolving deltas:  92% (83/90)   [Kremote: Resolving deltas:  93% (84/90)   [Kremote: Resolving deltas:  94% (85/90)   [Kremote: Resolving deltas:  96% (87/90)   [Kremote: Resolving deltas:  97% (88/90)   [Kremote: Resolving deltas:  98% (89/90)   [Kremote: Resolving deltas: 100% (90/90)   [Kremote: Resolving deltas: 100% (90/90), done.[K
+To https://github.com/dis-organization/sumnerdown.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;/perm_storage/home/mdsumner/Git/sumnerdown]0;mdsumner@thirtyonetwentyone: ~/Git/sumnerdown[01;32mmdsumner@thirtyonetwentyone[00m:[01;34m~/Git/sumnerdown[00m$ logout

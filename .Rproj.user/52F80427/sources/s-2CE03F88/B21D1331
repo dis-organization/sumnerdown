@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2397106235",
+    "hash" : "0",
     "id" : "B21D1331",
-    "lastKnownWriteTime" : 1493781488,
-    "last_content_update" : 1493781488704,
+    "lastKnownWriteTime" : 1493782046,
+    "last_content_update" : 1493782046216,
     "path" : "~/Git/sumnerdown/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "8,0",
+        "cursorPosition" : "6,18",
         "scrollLine" : "0"
     },
     "relative_order" : 1,
